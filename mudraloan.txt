@@ -84,7 +84,8 @@
     "Currency": "1",
     "Screen1": "1",
     "Screen2": "1",
-    "Screen3": "1"
+    "Screen3": "1",
+    "LanguageScreen": "1"
   },
   "PLACEMENT": {
     "Admob": {
